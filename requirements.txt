@@ -1,3 +1,4 @@
 html2text
-suds-jurko
+#suds-jurko
+suds-community
 requests
